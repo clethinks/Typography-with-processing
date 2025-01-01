@@ -43,8 +43,7 @@ import org.jetbrains.annotations.*;
 
 PImage img;
 
-color c = #12FF05;
-
+color c = #00AB32;
 void setup(){
   size(900,900);
   img= loadImage("max.jpg");
